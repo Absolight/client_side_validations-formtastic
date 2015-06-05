@@ -14,7 +14,7 @@ Gem::Specification.new do |gem|
   gem.version       = ClientSideValidations::Formtastic::VERSION
 
   gem.add_dependency 'client_side_validations', '~> 4.2.0'
-  gem.add_dependency 'formtastic', '~> 2.2.0'
+  gem.add_dependency 'formtastic', '~> 3.0'
 
   gem.add_development_dependency 'rails', '~> 4.0'
   gem.add_development_dependency 'mocha'
